@@ -26,8 +26,7 @@ I'm **not** a professional developer. I keep finding gaps where the "right tool"
 - 🏠 **Homelab tinkering** - Proxmox, TrueNAS, self-hosted everything I can get my hands on.
 - 📚 **Learning projects** - Currently working my way through C# / .NET 10 properly.
 
-If something here is useful to you - great. If you spot a way to do it better - please tell me, that's why it's public.
-
+If something here is useful to you - go for it and use it.
 
 ## 🧰 Tech Stack
 
@@ -61,4 +60,4 @@ If something here is useful to you - great. If you spot a way to do it better - 
 
 A user-friendly Windows app for downloading videos and audio from various platforms. Built in C# because the existing solutions either had clunky UIs or required command-line knowledge most people don't have.
 
-> *"Built because every other downloader either breaks after the next platform update, hides the download button behind three ad layers, or both."*
+> *"Quick clip downloads from anywhere, no broken builds, no shady websites — a tool that opens, works, and stays current."*
