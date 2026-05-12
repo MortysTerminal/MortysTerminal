@@ -8,9 +8,8 @@
 *Some of those scripts end up here.*
 
 [![Twitch Status](https://img.shields.io/twitch/status/mortys_welt?style=for-the-badge&logo=twitch&logoColor=white&label=mortys_welt&labelColor=9146FF&color=53FC18)](https://twitch.tv/mortys_welt)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mortys_welt)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mortyswelt)
 [![Website](https://img.shields.io/badge/mortys--welt.com-2F2F2F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mortys-welt.com)
-<!-- TODO: replace YouTube URL with your actual channel handle if different from @mortys_welt -->
 
 </div>
 
@@ -62,6 +61,4 @@ If something here is useful to you - great. If you spot a way to do it better - 
 
 A user-friendly Windows app for downloading videos and audio from various platforms. Built in C# because the existing solutions either had clunky UIs or required command-line knowledge most people don't have.
 
-> *"I needed something I could hand to a non-technical friend and have them actually use it."*
-
----
+> *"Built because every other downloader either breaks after the next platform update, hides the download button behind three ad layers, or both."*
